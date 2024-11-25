@@ -1,0 +1,14 @@
+{
+	"files.associations": {
+		"*.embeddedhtml": "html",
+		"corekit.h": "c",
+		"minishell.h": "c",
+		"env_vars.h": "c",
+		"libft.h": "c",
+		"system_error": "c",
+		"dirent.h": "c",
+		"unistd.h": "c",
+		"eof": "cpp"
+	},
+	"C_Cpp.default.compilerPath": "/usr/bin/clang++-12"
+}

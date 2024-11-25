@@ -1,0 +1,6 @@
+corekit/
+*.o
+*/*.o
+minishell
+.nfs*
+.heredoc
