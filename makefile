@@ -73,9 +73,6 @@ fclean: clean
 
 re: fclean all
 
-remove_mlx:
-	@rm -fr mlx
-
 test: all
 	 ./$(NAME)
 val: all
